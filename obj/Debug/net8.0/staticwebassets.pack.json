@@ -1,0 +1,1061 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ScootGreenWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ScootGreenWeb.3a6154x9h8.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\css\\custom.css"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\css\\theme-rtl.css",
+      "PackagePath": "staticwebassets\\css\\theme-rtl.css"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\css\\theme-rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\theme-rtl.css.map"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\css\\theme-rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\theme-rtl.min.css"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\css\\theme-rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\theme-rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\css\\theme.css",
+      "PackagePath": "staticwebassets\\css\\theme.css"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\css\\theme.css.map",
+      "PackagePath": "staticwebassets\\css\\theme.css.map"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\css\\theme.min.css",
+      "PackagePath": "staticwebassets\\css\\theme.min.css"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\css\\theme.min.css.map",
+      "PackagePath": "staticwebassets\\css\\theme.min.css.map"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\css\\user-rtl.css",
+      "PackagePath": "staticwebassets\\css\\user-rtl.css"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\css\\user-rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\user-rtl.css.map"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\css\\user-rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\user-rtl.min.css"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\css\\user-rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\user-rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\css\\user.css",
+      "PackagePath": "staticwebassets\\css\\user.css"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\css\\user.css.map",
+      "PackagePath": "staticwebassets\\css\\user.css.map"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\css\\user.min.css",
+      "PackagePath": "staticwebassets\\css\\user.min.css"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\css\\user.min.css.map",
+      "PackagePath": "staticwebassets\\css\\user.min.css.map"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\01.jpg",
+      "PackagePath": "staticwebassets\\images\\01.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\02.jpg",
+      "PackagePath": "staticwebassets\\images\\02.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\03.jpg",
+      "PackagePath": "staticwebassets\\images\\03.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\04.jpg",
+      "PackagePath": "staticwebassets\\images\\04.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\05.jpg",
+      "PackagePath": "staticwebassets\\images\\05.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\06.jpg",
+      "PackagePath": "staticwebassets\\images\\06.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\07.jpg",
+      "PackagePath": "staticwebassets\\images\\07.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\08.jpg",
+      "PackagePath": "staticwebassets\\images\\08.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\1.png",
+      "PackagePath": "staticwebassets\\images\\1.png"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\10.jpg",
+      "PackagePath": "staticwebassets\\images\\10.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\10.png",
+      "PackagePath": "staticwebassets\\images\\10.png"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\11.jpg",
+      "PackagePath": "staticwebassets\\images\\11.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\11.png",
+      "PackagePath": "staticwebassets\\images\\11.png"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\12.jpg",
+      "PackagePath": "staticwebassets\\images\\12.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\12.png",
+      "PackagePath": "staticwebassets\\images\\12.png"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\13.jpg",
+      "PackagePath": "staticwebassets\\images\\13.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\14.jpg",
+      "PackagePath": "staticwebassets\\images\\14.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\15.jpg",
+      "PackagePath": "staticwebassets\\images\\15.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\16.jpg",
+      "PackagePath": "staticwebassets\\images\\16.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\3.png",
+      "PackagePath": "staticwebassets\\images\\3.png"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\4.png",
+      "PackagePath": "staticwebassets\\images\\4.png"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\6.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\6.png",
+      "PackagePath": "staticwebassets\\images\\6.png"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\7.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\7.png",
+      "PackagePath": "staticwebassets\\images\\7.png"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\8.jpg",
+      "PackagePath": "staticwebassets\\images\\8.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\8.png",
+      "PackagePath": "staticwebassets\\images\\8.png"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\9.jpg",
+      "PackagePath": "staticwebassets\\images\\9.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\9.png",
+      "PackagePath": "staticwebassets\\images\\9.png"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\about-header.jpg",
+      "PackagePath": "staticwebassets\\images\\about-header.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\backpack-header.jpg",
+      "PackagePath": "staticwebassets\\images\\backpack-header.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\bike-1.jpg",
+      "PackagePath": "staticwebassets\\images\\bike-1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\bike-2.jpg",
+      "PackagePath": "staticwebassets\\images\\bike-2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\blog-header.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-header.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\component-header.jpg",
+      "PackagePath": "staticwebassets\\images\\component-header.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\contact-header.jpg",
+      "PackagePath": "staticwebassets\\images\\contact-header.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\cta.jpg",
+      "PackagePath": "staticwebassets\\images\\cta.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\cuisine-header.jpg",
+      "PackagePath": "staticwebassets\\images\\cuisine-header.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\favicons\\android-chrome-192x192.png",
+      "PackagePath": "staticwebassets\\images\\favicons\\android-chrome-192x192.png"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\favicons\\android-chrome-512x512.png",
+      "PackagePath": "staticwebassets\\images\\favicons\\android-chrome-512x512.png"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\favicons\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\images\\favicons\\apple-touch-icon.png"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\favicons\\dist--android-chrome-192x192.png",
+      "PackagePath": "staticwebassets\\images\\favicons\\dist--android-chrome-192x192.png"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\favicons\\dist--android-chrome-512x512.png",
+      "PackagePath": "staticwebassets\\images\\favicons\\dist--android-chrome-512x512.png"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\favicons\\dist--apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\images\\favicons\\dist--apple-touch-icon.png"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\favicons\\dist--favicon-16x16.png",
+      "PackagePath": "staticwebassets\\images\\favicons\\dist--favicon-16x16.png"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\favicons\\dist--favicon-32x32.png",
+      "PackagePath": "staticwebassets\\images\\favicons\\dist--favicon-32x32.png"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\favicons\\dist--mstile-150x150.png",
+      "PackagePath": "staticwebassets\\images\\favicons\\dist--mstile-150x150.png"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\favicons\\favicon-16x16.png",
+      "PackagePath": "staticwebassets\\images\\favicons\\favicon-16x16.png"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\favicons\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\images\\favicons\\favicon-32x32.png"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\favicons\\favicon.ico",
+      "PackagePath": "staticwebassets\\images\\favicons\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\favicons\\favicon_sg.ico",
+      "PackagePath": "staticwebassets\\images\\favicons\\favicon_sg.ico"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\favicons\\manifest.json",
+      "PackagePath": "staticwebassets\\images\\favicons\\manifest.json"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\favicons\\safari-pinned-tab.svg",
+      "PackagePath": "staticwebassets\\images\\favicons\\safari-pinned-tab.svg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\favicons\\samplesheet.xlsx",
+      "PackagePath": "staticwebassets\\images\\favicons\\samplesheet.xlsx"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\favicons\\site.webmanifest",
+      "PackagePath": "staticwebassets\\images\\favicons\\site.webmanifest"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\feature-1.jpeg",
+      "PackagePath": "staticwebassets\\images\\feature-1.jpeg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\feature-2.jpeg",
+      "PackagePath": "staticwebassets\\images\\feature-2.jpeg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\features-1.jpg",
+      "PackagePath": "staticwebassets\\images\\features-1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\features-2.jpg",
+      "PackagePath": "staticwebassets\\images\\features-2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\features-4.jpg",
+      "PackagePath": "staticwebassets\\images\\features-4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\features-5.jpg",
+      "PackagePath": "staticwebassets\\images\\features-5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\features-6.jpg",
+      "PackagePath": "staticwebassets\\images\\features-6.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\features-7.jpg",
+      "PackagePath": "staticwebassets\\images\\features-7.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\features-8.jpg",
+      "PackagePath": "staticwebassets\\images\\features-8.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\features-9.jpg",
+      "PackagePath": "staticwebassets\\images\\features-9.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\fitness-1.jpg",
+      "PackagePath": "staticwebassets\\images\\fitness-1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\fitness-2.jpg",
+      "PackagePath": "staticwebassets\\images\\fitness-2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\fitness-3.jpg",
+      "PackagePath": "staticwebassets\\images\\fitness-3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\gallery-1.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\gallery-10.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-10.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\gallery-2.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\gallery-3.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\gallery-4.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\gallery-5.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\gallery-6.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-6.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\gallery-7.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-7.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\gallery-8.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-8.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\gallery-9.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-9.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\header-bicycle.jpg",
+      "PackagePath": "staticwebassets\\images\\header-bicycle.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\header-temp.jpg",
+      "PackagePath": "staticwebassets\\images\\header-temp.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\helmet-1.jpg",
+      "PackagePath": "staticwebassets\\images\\helmet-1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\herbal-1.jpg",
+      "PackagePath": "staticwebassets\\images\\herbal-1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\herbal-2.jpg",
+      "PackagePath": "staticwebassets\\images\\herbal-2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\herbal-3.jpg",
+      "PackagePath": "staticwebassets\\images\\herbal-3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\herbal-header.jpg",
+      "PackagePath": "staticwebassets\\images\\herbal-header.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\icon-play-o.svg",
+      "PackagePath": "staticwebassets\\images\\icon-play-o.svg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\icon-play.svg",
+      "PackagePath": "staticwebassets\\images\\icon-play.svg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\logo-nirvana-white.png",
+      "PackagePath": "staticwebassets\\images\\logo-nirvana-white.png"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\logo-nirvana.png",
+      "PackagePath": "staticwebassets\\images\\logo-nirvana.png"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\logo-scootgreen.png",
+      "PackagePath": "staticwebassets\\images\\logo-scootgreen.png"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\logo\\111.jpg",
+      "PackagePath": "staticwebassets\\images\\logo\\111.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\logo\\1111.jpg",
+      "PackagePath": "staticwebassets\\images\\logo\\1111.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\logo\\2222.jpg",
+      "PackagePath": "staticwebassets\\images\\logo\\2222.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\logo\\333.jpg",
+      "PackagePath": "staticwebassets\\images\\logo\\333.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\logo\\3333.jpg",
+      "PackagePath": "staticwebassets\\images\\logo\\3333.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\logo\\4444.jpg",
+      "PackagePath": "staticwebassets\\images\\logo\\4444.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\logo\\555.jpg",
+      "PackagePath": "staticwebassets\\images\\logo\\555.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\logo\\777.jpg",
+      "PackagePath": "staticwebassets\\images\\logo\\777.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\map-marker-dark.png",
+      "PackagePath": "staticwebassets\\images\\map-marker-dark.png"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\map-marker.png",
+      "PackagePath": "staticwebassets\\images\\map-marker.png"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\nirvana-logo-white.jpg",
+      "PackagePath": "staticwebassets\\images\\nirvana-logo-white.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\reserve-header.jpg",
+      "PackagePath": "staticwebassets\\images\\reserve-header.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\retreats-1.jpg",
+      "PackagePath": "staticwebassets\\images\\retreats-1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\retreats-2.jpg",
+      "PackagePath": "staticwebassets\\images\\retreats-2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\retreats-3.jpg",
+      "PackagePath": "staticwebassets\\images\\retreats-3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\retreats-4.jpg",
+      "PackagePath": "staticwebassets\\images\\retreats-4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\retreats-5.png",
+      "PackagePath": "staticwebassets\\images\\retreats-5.png"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\retreats-6.png",
+      "PackagePath": "staticwebassets\\images\\retreats-6.png"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\scoot-1.jpeg",
+      "PackagePath": "staticwebassets\\images\\scoot-1.jpeg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\scoot-2.jpeg",
+      "PackagePath": "staticwebassets\\images\\scoot-2.jpeg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\scoot_back.jpg",
+      "PackagePath": "staticwebassets\\images\\scoot_back.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\scoots.jpg",
+      "PackagePath": "staticwebassets\\images\\scoots.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\slider-1.jpg",
+      "PackagePath": "staticwebassets\\images\\slider-1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\slider-10.jpg",
+      "PackagePath": "staticwebassets\\images\\slider-10.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\slider-2.jpg",
+      "PackagePath": "staticwebassets\\images\\slider-2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\slider-3.jpg",
+      "PackagePath": "staticwebassets\\images\\slider-3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\slider-4.jpg",
+      "PackagePath": "staticwebassets\\images\\slider-4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\slider-5.jpg",
+      "PackagePath": "staticwebassets\\images\\slider-5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\slider-6.jpg",
+      "PackagePath": "staticwebassets\\images\\slider-6.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\slider-7.jpg",
+      "PackagePath": "staticwebassets\\images\\slider-7.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\slider-8.jpg",
+      "PackagePath": "staticwebassets\\images\\slider-8.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\slider-9.jpg",
+      "PackagePath": "staticwebassets\\images\\slider-9.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\slider-header-1.jpg",
+      "PackagePath": "staticwebassets\\images\\slider-header-1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\slider-header-2.jpg",
+      "PackagePath": "staticwebassets\\images\\slider-header-2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\slider-header-3.jpg",
+      "PackagePath": "staticwebassets\\images\\slider-header-3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\spa-header.jpg",
+      "PackagePath": "staticwebassets\\images\\spa-header.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\venue-header.jpg",
+      "PackagePath": "staticwebassets\\images\\venue-header.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\video.jpg",
+      "PackagePath": "staticwebassets\\images\\video.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\wilderness-header.jpg",
+      "PackagePath": "staticwebassets\\images\\wilderness-header.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\yoga-1.jpg",
+      "PackagePath": "staticwebassets\\images\\yoga-1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\yoga-10.jpg",
+      "PackagePath": "staticwebassets\\images\\yoga-10.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\yoga-2.jpg",
+      "PackagePath": "staticwebassets\\images\\yoga-2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\yoga-3.jpg",
+      "PackagePath": "staticwebassets\\images\\yoga-3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\yoga-4.jpg",
+      "PackagePath": "staticwebassets\\images\\yoga-4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\yoga-5.jpg",
+      "PackagePath": "staticwebassets\\images\\yoga-5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\yoga-6.jpg",
+      "PackagePath": "staticwebassets\\images\\yoga-6.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\yoga-7.jpg",
+      "PackagePath": "staticwebassets\\images\\yoga-7.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\yoga-8.jpg",
+      "PackagePath": "staticwebassets\\images\\yoga-8.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\yoga-9.jpg",
+      "PackagePath": "staticwebassets\\images\\yoga-9.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\yoga-header.jpg",
+      "PackagePath": "staticwebassets\\images\\yoga-header.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\yt-video-full.jpg",
+      "PackagePath": "staticwebassets\\images\\yt-video-full.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\images\\yt-video.jpg",
+      "PackagePath": "staticwebassets\\images\\yt-video.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\js\\theme.js",
+      "PackagePath": "staticwebassets\\js\\theme.js"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\js\\theme.js.map",
+      "PackagePath": "staticwebassets\\js\\theme.js.map"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\js\\theme.min.js",
+      "PackagePath": "staticwebassets\\js\\theme.min.js"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\js\\theme.min.js.map",
+      "PackagePath": "staticwebassets\\js\\theme.min.js.map"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\logos\\themewagon (1).png",
+      "PackagePath": "staticwebassets\\logos\\themewagon (1).png"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\vendors\\bigpicture\\BigPicture.js",
+      "PackagePath": "staticwebassets\\vendors\\bigpicture\\BigPicture.js"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\vendors\\bootstrap\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\vendors\\bootstrap\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\vendors\\fontawesome\\all.min.js",
+      "PackagePath": "staticwebassets\\vendors\\fontawesome\\all.min.js"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\vendors\\gsap\\customEase.js",
+      "PackagePath": "staticwebassets\\vendors\\gsap\\customEase.js"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\vendors\\gsap\\drawSVGPlugin.js",
+      "PackagePath": "staticwebassets\\vendors\\gsap\\drawSVGPlugin.js"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\vendors\\gsap\\gsap.js",
+      "PackagePath": "staticwebassets\\vendors\\gsap\\gsap.js"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\vendors\\gsap\\scrollToPlugin.js",
+      "PackagePath": "staticwebassets\\vendors\\gsap\\scrollToPlugin.js"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\vendors\\hamburgers\\hamburgers.css",
+      "PackagePath": "staticwebassets\\vendors\\hamburgers\\hamburgers.css"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\vendors\\imagesloaded\\imagesloaded.pkgd.js",
+      "PackagePath": "staticwebassets\\vendors\\imagesloaded\\imagesloaded.pkgd.js"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\vendors\\is\\is.min.js",
+      "PackagePath": "staticwebassets\\vendors\\is\\is.min.js"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\vendors\\isotope-layout\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\vendors\\isotope-layout\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\vendors\\isotope-packery\\packery-mode.pkgd.min.js",
+      "PackagePath": "staticwebassets\\vendors\\isotope-packery\\packery-mode.pkgd.min.js"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\vendors\\loaders.css\\loaders.css",
+      "PackagePath": "staticwebassets\\vendors\\loaders.css\\loaders.css"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\vendors\\loaders.css\\loaders.min.css",
+      "PackagePath": "staticwebassets\\vendors\\loaders.css\\loaders.min.css"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\vendors\\lodash\\lodash.min.js",
+      "PackagePath": "staticwebassets\\vendors\\lodash\\lodash.min.js"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\vendors\\plyr\\plyr.css",
+      "PackagePath": "staticwebassets\\vendors\\plyr\\plyr.css"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\vendors\\plyr\\plyr.polyfilled.min.js",
+      "PackagePath": "staticwebassets\\vendors\\plyr\\plyr.polyfilled.min.js"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\vendors\\plyr\\plyr.polyfilled.min.js.map",
+      "PackagePath": "staticwebassets\\vendors\\plyr\\plyr.polyfilled.min.js.map"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\vendors\\popper\\popper.min.js",
+      "PackagePath": "staticwebassets\\vendors\\popper\\popper.min.js"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\vendors\\popper\\popper.min.js.map",
+      "PackagePath": "staticwebassets\\vendors\\popper\\popper.min.js.map"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\vendors\\prism\\prism.css",
+      "PackagePath": "staticwebassets\\vendors\\prism\\prism.css"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\vendors\\prism\\prism.js",
+      "PackagePath": "staticwebassets\\vendors\\prism\\prism.js"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\vendors\\rellax\\rellax.js",
+      "PackagePath": "staticwebassets\\vendors\\rellax\\rellax.js"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\vendors\\swiper\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\vendors\\swiper\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\vendors\\swiper\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\vendors\\swiper\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "D:\\Project\\ScootGreenRentalsWeb\\wwwroot\\videos\\video.mp4",
+      "PackagePath": "staticwebassets\\videos\\video.mp4"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ScootGreenWeb.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ScootGreenWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ScootGreenWeb.props",
+      "PackagePath": "build\\ScootGreenWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ScootGreenWeb.props",
+      "PackagePath": "buildMultiTargeting\\ScootGreenWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ScootGreenWeb.props",
+      "PackagePath": "buildTransitive\\ScootGreenWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

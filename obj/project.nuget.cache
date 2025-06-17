@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VH+ozPG7ePM=",
+  "success": true,
+  "projectFilePath": "D:\\Project\\ScootGreenRentalsWeb\\ScootGreenWeb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jayas\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
