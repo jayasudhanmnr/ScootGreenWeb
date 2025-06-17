@@ -66,3 +66,4 @@ D:\Project\ScootGreenRentalsWeb\obj\Debug\net8.0\refint\ScootGreenWeb.dll
 D:\Project\ScootGreenRentalsWeb\obj\Debug\net8.0\ScootGreenWeb.pdb
 D:\Project\ScootGreenRentalsWeb\obj\Debug\net8.0\ScootGreenWeb.genruntimeconfig.cache
 D:\Project\ScootGreenRentalsWeb\obj\Debug\net8.0\ref\ScootGreenWeb.dll
+D:\Project\ScootGreenRentalsWeb\obj\Debug\net8.0\ScootGreenWeb.sourcelink.json

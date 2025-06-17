@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ScootGreenWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+969dbb433189dfe9f55d1ae7a466a3216c860d79")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScootGreenWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScootGreenWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
